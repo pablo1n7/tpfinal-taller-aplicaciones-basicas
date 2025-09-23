@@ -1,0 +1,7 @@
+## Análisis bioinformático de las secuencias señal de péptidos Antimicrobianos (AMP) de Rana
+
+Mariana Useglio, José Pablo Navarro, Orlando Pérez
+
+### Abstract
+
+Los péptidos señal (PS) son regiones cortas de aminoácidos que se encuentran en la región anterior de pre-propéptidos y cuya función es guiar la proteína a su destino. Al ser relativamente conservadas, son herramientas utilizadas en la biotecnología para identificar proteínas de secreción. El objetivo de este trabajo es analizar la diversidad de las moléculas péptido señal y determinar qué método permite discriminar mejor las diferencias entre las familias proteicas. Para esto, se alinearon secuencias PS disponibles en bases de datos públicas y se construyeron espacios vectoriales utilizando tres metodologías: label coding, agrupación bioquímica y Embedding especializado para lenguaje de proteínas. Para comparar estadísticamente los grupos de péptidos se optó por un análisis PERMANOVA. Los resultados demostraron que, en general, cada familia de anfibios se especializa en una familia proteica. Se encontraron diferencias estadísticamente significativas entre grupos de secuencias de familias proteicas. Tanto los tipos de péptido Nigrosina y Temporina como Phyloseptina y Dermaseptino demostraron ser los grupos con más diferencias de acuerdo al test pseudo-F de PERMANOVA. Conclusiones: A pesar de ser una secuencia conservada en el grupo de anfibios, dada su función de señalización celular, las molécula péptido señal se diferencian significativamente de acuerdo a la familia proteica.    
