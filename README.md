@@ -1,6 +1,6 @@
 ## Análisis bioinformático de las secuencias señal de péptidos Antimicrobianos (AMP) de Rana
 
-Mariana Useglio, José Pablo Navarro, Orlando Pérez
+Mariana Useglio, José Pablo Navarro, Luis Orlando Pérez
 
 ### Abstract
 
